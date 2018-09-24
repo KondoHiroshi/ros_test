@@ -1,4 +1,5 @@
 """
+aaaaaa
 ma24126aをROSで書くつもり
 """
 import rospy
